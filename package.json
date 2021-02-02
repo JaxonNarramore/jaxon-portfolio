@@ -2,6 +2,10 @@
   "name": "jaxon-portfolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "15.6.0",
+    "npm": "7.4.0"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "@testing-library/jest-dom": "^5.11.9",

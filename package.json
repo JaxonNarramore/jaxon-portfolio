@@ -1,6 +1,6 @@
 {
   "name": "jaxon-portfolio",
-  "version": "15.6.0",
+  "version": "7.4.0",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
